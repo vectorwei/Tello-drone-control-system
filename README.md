@@ -1,6 +1,6 @@
 # Robartist - Intelligent Drone Control System
 
-An intelligent drone control system based on voice recognition, gesture recognition, and logo detection, using DJI Tello drone as the hardware platform.
+An intelligent drone control system based on voice recognition, gesture recognition, and logo detection, using DJI Tello drone as the hardware.
 
 ## Features
 
